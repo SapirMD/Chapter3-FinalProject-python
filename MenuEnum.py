@@ -1,15 +1,15 @@
 from enum import Enum, auto
 
 class MenuOptions(Enum):
-    SAVE_NEW_ENTRY = "Save a new entry!"
+    SAVE_NEW_ENTRY = "Save a new entry! (:"
     SEARCH_BY_ID = "Search by ID!"
-    PRINT_AGE_AVERAGE = "Print ages average!"
+    PRINT_AGE_AVERAGE = "Print ages average! (:"
     PRINT_ALL_NAMES = "Print all names!"
-    PRINT_ALL_IDS = "Print all IDs!"
+    PRINT_ALL_IDS = "Print all IDs! (:"
     PRINT_ALL_ENTRIES = "Print all entries!"
-    PRINT_ENTRY_BY_INDEX = "Print entry by index!"
+    PRINT_ENTRY_BY_INDEX = "Print entry by index! (:"
     SAVE_ALL_DATA = "Save all data!"
-    EXIT = "Exit!"
+    EXIT = "Exit! (:"
 
 class ExitOptions(Enum):
     YES = "y"
