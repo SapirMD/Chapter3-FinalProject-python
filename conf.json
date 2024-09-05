@@ -1,0 +1,11 @@
+{
+    "type" : "TYPE",
+    "id" : "ID",
+    "age" : "AGE",
+    "name" : "NAME",
+    "field_of_study": "FIELD OF STUDY", 
+    "year_of_study": "YEAR OF STUDY", 
+    "score_avg": "SCORE AVG.",
+    "field_of_work": "FIELD OF WORK",
+    "salary": "SALARY"
+}
